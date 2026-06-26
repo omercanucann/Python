@@ -11,7 +11,7 @@ class Plant:
         self.age = self.age + 1
     def show(self):
         print(f"{self.name}: {self.height:.1f} cm {self.age} days old")
-
+ 
 
 def main():
     grow = 0.8

@@ -18,7 +18,7 @@ class Plant:
 
 # Temel olarak her method bir fonksiyondur, ama her fonksiyon method değildir.
 # Method Bir sınıfın içinde tanımlanan fonksiyondur. Fonksiyonlarda self yoktur.
-# Methodlarda genellikle ilk parametre self olur:
+# Methodlarda genellikle ilk parametre self olur: 
 
 plant1 = Plant("Tomato", 45, 60)
 plant2 = Plant("Rose", 25, 30)

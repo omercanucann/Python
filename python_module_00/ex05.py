@@ -7,4 +7,4 @@ def main():
     unit = str(input("Unit type: "))
     ft_seed_inventory(seedtype, quant, unit)
 
-main()
+main()  

@@ -41,4 +41,4 @@ def test_error_types():
             print("An Error occurrred during operation", i)
     print("Program finished successfully!")
 
-test_error_types()
+test_error_types() 

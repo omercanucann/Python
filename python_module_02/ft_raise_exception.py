@@ -10,4 +10,4 @@ try:
         print(f"Caught input_temperature error: {x}°C is too cold for plants (min 0°C)")
 except ValueError as e:
     print(f"Caught İnput temperature error: {e}")
-print("All tests completed - program didn't crash!")
+print("All tests completed - program didn't crash!") 
